@@ -29,4 +29,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rake-compiler"
+  spec.add_development_dependency "benchmark-ips"
 end
